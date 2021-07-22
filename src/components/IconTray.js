@@ -21,7 +21,7 @@ import IconNode from "../components/icon-components/IconNode"
 import IconPostgres from "../components/icon-components/IconPostgres"
 import IconPython from "../components/icon-components/IconPython"
 import IconJs from "../components/icon-components/IconJS"
-import IconExpress from "../components/icon-components/IconExpress"
+//import IconExpress from "../components/icon-components/IconExpress"
 
 const IconTray = ({ icons }) => 
 {
@@ -48,7 +48,7 @@ const IconTray = ({ icons }) =>
         "postgres": <IconPostgres/>,
         "python": <IconPython/>,
         "javascript": <IconJs/>,
-        "express": <IconExpress/>
+        //"express": <IconExpress/>
 
     }
     const Iconset = icons.map(icon => 

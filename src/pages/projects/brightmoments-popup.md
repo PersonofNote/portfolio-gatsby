@@ -16,7 +16,7 @@ description: Mixed-reality NFT Gallery popup in Venice Beach, CA
 coverImage: ../../images/project-images/brightmoments-popup/art-website.jpg
 icons:
     - { icon: "gatsby", link: "https://www.gatsbyjs.com/", tooltip: "Built with Gatsby" }
-    - { icon: "express", link: "http://expressjs.com/", tooltip: "Built with ExpressJS" }
+    - { icon: "javascript", link: "http://expressjs.com/", tooltip: "Built with ExpressJS" }
     - { icon: "postgres", link: "https://www.postgresql.org/", tooltip: "Built with PostgreSQL" }
 visible: true
 date: 2021-05-06
