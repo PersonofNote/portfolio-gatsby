@@ -8,7 +8,7 @@ const CommentsForm =  ( props )  => {
   if (typeof window !== `undefined`) {
     posted_to = window.location.pathname.split('/')[3]
   }else{
-    posted_to = ""
+    posted_to = " "
   }
   const [author, setAuthor] = useState('')
   const [text, setText] = useState('')
